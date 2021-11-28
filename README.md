@@ -4,7 +4,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Hi, My name is Parth Pandey. I am a 2nd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 year old, doing whatever code I like and can to make my and other lives around me more fun. 
+Hi, My name is Parth Pandey. I am a 3rd Year Student at SRM-IST pursuing my Bachelor's Degree in Computer Science and Engineering. I am a 20 year old, doing whatever code I like and can to make my and other lives around me more fun. 
 
 ## printf("\n Hello World!! 😃");
 - 💬 Ask me about anything and everything.
